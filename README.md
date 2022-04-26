@@ -1,2 +1,5 @@
 # Etch-a-Sketch
- Move mouse over black cubes to turn blue.
+Etch-a-Sketch App
+
+
+Made with (HTML,CSS,JS).
