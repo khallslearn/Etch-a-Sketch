@@ -2,8 +2,10 @@
   display: grid;
   grid-template-columns: repeat(16, 0fr);
   gap: 1px;
+  height:30px;
+  width: 30px;
+  justify-content:left
 }
 h1 {
-  position: relative;
-  left: 30%;
+ color: blue;
 }
