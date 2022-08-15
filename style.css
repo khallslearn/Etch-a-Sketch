@@ -7,13 +7,21 @@
   justify-content:left;
   position: relative;
   left: 200px;
+  top: 200px
 }
 h1 {
  color: rgb(2, 2, 146);
  position: relative;
  left: 400px;
 }
-body{
-  border: 9px solid rgb(31, 123, 153);
-  padding-bottom: 700px;
+#Etch{
+  position: absolute;
+ top: 100px;
+ height: 1000px;
+ width:1000px;
+
 }
+body{
+  border: 9px solid rgb(246, 246, 246);
+  padding-bottom: 700px;
+};
