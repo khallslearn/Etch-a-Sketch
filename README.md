@@ -1,6 +1,11 @@
 # Etch-a-Sketch
-Etch-a-Sketch App
+
+This is an Etch-a-Sketch. Move mouse over squares to sketch in new color. 
+
+<a href="https://ibb.co/RPfkjWR"><img src="https://i.ibb.co/RPfkjWR/Etch.png" alt="Etch" border="0"></a> 
 Live Demo:https://khallslearn.github.io/Etch-a-Sketch/
 
+## How It's Made:
 
-Made with (HTML,CSS,JS).
+**Tech used:** HTML, CSS, JavaScript
+
